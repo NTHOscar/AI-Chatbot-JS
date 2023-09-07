@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "hnswlib-node": "^1.4.2",
+    "html-to-text": "^9.0.5",
+    "langchain": "^0.0.132",
+    "playwright": "^1.37.1"
+  },
+  "type": "module"
+}
